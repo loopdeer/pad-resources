@@ -4,7 +4,7 @@ P&D card image renderer
 
 Requirement
 -----------
-- Node 8 & Yarn
+- Node 8 & Yarn...This one should support the latest Node.
 - For rendering video: ffmpeg
 
 Usage
