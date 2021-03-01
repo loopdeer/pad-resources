@@ -79,5 +79,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+#yarn.lock
+./yarn.lock
+
 
 data/

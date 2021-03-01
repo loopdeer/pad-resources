@@ -5,13 +5,13 @@
   "main": "src/index.ts",
   "license": "MIT",
   "devDependencies": {
-    "@types/lodash": "^4.14.109",
-    "@types/mkdirp": "^0.5.2",
+    "@types/lodash": ">=4.14.109",
+    "@types/mkdirp": ">=0.5.2",
     "@types/node": "8",
-    "@types/sharp": "^0.17.8",
-    "ts-node": "^6.0.5",
-    "tslint": "^5.10.0",
-    "typescript": "^2.8.3"
+    "@types/sharp": ">=0.17.8",
+    "ts-node": ">=6.0.5",
+    "tslint": ">=5.10.0",
+    "typescript": ">=2.8.3"
   },
   "scripts": {
     "start": "ts-node .",
@@ -23,19 +23,19 @@
     "play": "ts-node . play"
   },
   "dependencies": {
-    "@types/gl": "^4.1.0",
-    "@types/gl-matrix": "^2.4.4",
-    "@types/minimist": "^1.2.0",
-    "@types/rimraf": "^2.0.2",
-    "axios": "^0.18.0",
-    "gl": "^4.1.1",
-    "gl-matrix": "^3.0.0",
-    "lodash": "^4.17.10",
-    "minimist": "^1.2.0",
-    "mkdirp": "^0.5.1",
-    "rimraf": "^2.6.3",
-    "sharp": "^0.20.3",
-    "sqlite": "^2.9.2",
-    "wpe-webgl": "^0.0.5"
+    "@types/gl": ">=4.1.0",
+    "@types/gl-matrix": ">=2.4.4",
+    "@types/minimist": ">=1.2.0",
+    "@types/rimraf": ">=2.0.2",
+    "axios": ">=0.18.0",
+    "gl": ">=4.9.0",
+    "gl-matrix": ">=3.0.0",
+    "lodash": ">=4.17.10",
+    "minimist": ">=1.2.0",
+    "mkdirp": ">=0.5.1",
+    "rimraf": ">=2.6.3",
+    "sharp": ">=0.20.3",
+    "sqlite": ">=2.9.2",
+    "wpe-webgl": ">=0.0.5"
   }
 }
